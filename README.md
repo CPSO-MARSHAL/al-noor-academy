@@ -11,6 +11,8 @@ A school website built with WordPress as a portfolio project.
 - Responsive Design
 
 ## 📸 Screenshots
-![Screenshot 1](Screenshot From 2026-05-16 00-40-29.png)
-![Screenshot 2](Screenshot From 2026-05-16 00-43-16.png)
-![Screenshot 3](Screenshot From 2026-05-16 00-43-31.png)
+
+![Screenshot 1](Screenshot%20From%202026-05-16%2000-40-29.png)
+![Screenshot 2](Screenshot%20From%202026-05-16%2000-43-16.png)
+![Screenshot 3](Screenshot%20From%202026-05-16%2000-43-31.png)
+
