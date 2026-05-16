@@ -12,7 +12,9 @@ A school website built with WordPress as a portfolio project.
 
 ## 📸 Screenshots
 
-![Screenshot 1](Screenshot%20From%202026-05-16%2000-40-29.png)
+![Screenshot 1](Screenshot%20From%202026-05-16%2000-43-09.png)
 ![Screenshot 2](Screenshot%20From%202026-05-16%2000-43-16.png)
-![Screenshot 3](Screenshot%20From%202026-05-16%2000-43-31.png)
+![Screenshot 3](Screenshot%20From%202026-05-16%2000-43-25.png)
+![Screenshot 4](Screenshot%20From%202026-05-16%2000-43-31.png)
+![Screenshot 5](Screenshot%20From%202026-05-16%2000-43-37.png)
 
